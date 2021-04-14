@@ -1,0 +1,12 @@
+{
+  "name": "tiny-toast",
+  "displayName": "tiny-toast",
+  "expo": {
+    "name": "tiny-toast",
+    "slug": "tiny-toast",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
